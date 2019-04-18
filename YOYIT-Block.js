@@ -23,8 +23,6 @@ class YOYITBlock {
                     }
                 },
             }],
-        "menus": {
-            nal: define extension-specific menus here.
         menus: {
             // Required: an identifier for this menu, unique within this extension.
             menuA: [
