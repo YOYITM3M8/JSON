@@ -1,4 +1,4 @@
-class YOYIT-Block {
+class YOYITBlock {
     getInfo() {
         return {
             "id": "YOYIT-Block",
@@ -27,4 +27,4 @@ class YOYIT-Block {
         }
     };
 }
-Scratch.extensions.register(new YOYIT-Block());
+Scratch.extensions.register(new YOYITBlock());
